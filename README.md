@@ -1,5 +1,3 @@
-markdown
-
 # Random Task
 
 **Автор:** Гриценко Артемий
